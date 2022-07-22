@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "b71e637d-3f97-448a-9976-177bb7436ff5",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Tether USD",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

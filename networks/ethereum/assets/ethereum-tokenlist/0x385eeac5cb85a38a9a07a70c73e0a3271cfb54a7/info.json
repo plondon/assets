@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "72a6bfe0-cdd0-4f31-85a4-872b29bec58c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aavegotchi GHST Token",
+  "spam": false,
+  "symbol": "GHST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
