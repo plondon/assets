@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "90aee96d-71fb-4f62-8f6a-f801dee0fcf8",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Synthetix Network Token",
+  "spam": false,
+  "symbol": "SNX",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
