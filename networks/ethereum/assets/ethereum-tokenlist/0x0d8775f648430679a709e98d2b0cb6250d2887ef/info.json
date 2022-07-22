@@ -1,0 +1,25 @@
+{
+  "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+  "decimals": 18,
+  "id": "54d0c195-6960-43e2-9648-472c0040d78e",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Basic Attention Token",
+  "spam": false,
+  "symbol": "BAT",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

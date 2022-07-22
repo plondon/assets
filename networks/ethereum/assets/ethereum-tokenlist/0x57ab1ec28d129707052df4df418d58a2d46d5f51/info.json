@@ -1,0 +1,28 @@
+{
+  "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+  "decimals": 18,
+  "id": "04b5eacd-f9a2-4769-8454-54d6a66c7e62",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Synth sUSD",
+  "spam": false,
+  "symbol": "sUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

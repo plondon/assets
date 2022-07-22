@@ -1,0 +1,25 @@
+{
+  "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+  "decimals": 18,
+  "id": "78aaf962-654e-469b-92d1-5138f74a630d",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Kyber Network Crystal",
+  "spam": false,
+  "symbol": "KNC",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

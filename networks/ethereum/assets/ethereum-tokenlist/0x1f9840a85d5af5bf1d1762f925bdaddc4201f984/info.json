@@ -1,0 +1,25 @@
+{
+  "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+  "decimals": 18,
+  "id": "62558c93-8ee6-4034-96de-3cee942044f0",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Uniswap",
+  "spam": false,
+  "symbol": "UNI",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

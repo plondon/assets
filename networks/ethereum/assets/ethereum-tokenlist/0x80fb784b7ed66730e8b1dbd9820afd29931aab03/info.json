@@ -1,0 +1,25 @@
+{
+  "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+  "decimals": 18,
+  "id": "4d99c282-399a-442d-a05b-aed8671bc2a0",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Lend",
+  "spam": false,
+  "symbol": "LEND",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

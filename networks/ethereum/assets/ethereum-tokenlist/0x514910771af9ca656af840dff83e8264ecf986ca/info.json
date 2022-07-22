@@ -1,0 +1,25 @@
+{
+  "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+  "decimals": 18,
+  "id": "abe86016-3b31-4dba-a933-2c5b32928833",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "ChainLink Token",
+  "spam": false,
+  "symbol": "LINK",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

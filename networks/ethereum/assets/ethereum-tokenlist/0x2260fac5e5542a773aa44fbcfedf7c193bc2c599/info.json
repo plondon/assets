@@ -1,0 +1,25 @@
+{
+  "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+  "decimals": 8,
+  "id": "3d408bee-06a5-4cac-bd0c-87a34e399fe4",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Wrapped BTC",
+  "spam": false,
+  "symbol": "WBTC",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

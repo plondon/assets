@@ -1,0 +1,28 @@
+{
+  "address": "0xF173214C720f58E03e194085B1DB28B50aCDeeaD",
+  "decimals": 18,
+  "id": "3c79763c-1648-42ae-a703-b28c6989b375",
+  "logo": {
+    "png": {
+      "github": null,
+      "ipfs": "ipfs://QmQWb2cb9QZbTeMTtoWzUpJGNXcZiGXTygbRLKHNNwhk4Y",
+      "cdn": null
+    },
+    "svg": {
+      "github": null,
+      "ipfs": null,
+      "cdn": null
+    }
+  },
+  "name": "Uniswap LINK LP",
+  "spam": false,
+  "symbol": "UniLINKETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
