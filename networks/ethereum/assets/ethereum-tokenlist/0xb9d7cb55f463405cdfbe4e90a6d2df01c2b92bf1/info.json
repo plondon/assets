@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ccf500a9-c586-4f5c-89d8-b4c5794e3eb6",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": "ipfs://QmYdpeez387RdMw6zEEa5rMXuayi748Uc15eFuoa3QhGEJ"
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave interest bearing UNI",
+  "spam": false,
+  "symbol": "aUNI",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e76598b3-a798-493a-9f58-d4fc2ec3c231",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniDAI",
+  "spam": false,
+  "symbol": "aUniDAI",
+  "tags": [
+    "atokenv1",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
