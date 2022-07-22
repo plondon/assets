@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e47e4f67-cc45-4c27-8a33-8f8f0dfa3089",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Balancer",
+  "spam": false,
+  "symbol": "BAL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
