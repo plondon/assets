@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "df2d21d3-0043-48ac-abcb-7ba6f9133787",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ApeCoin",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "APE",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

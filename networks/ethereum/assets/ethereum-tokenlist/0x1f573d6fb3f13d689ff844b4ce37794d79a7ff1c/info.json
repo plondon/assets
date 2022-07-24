@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9e15b6d2-2173-4181-819a-0088893f2b0c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Bancor",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BNT",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

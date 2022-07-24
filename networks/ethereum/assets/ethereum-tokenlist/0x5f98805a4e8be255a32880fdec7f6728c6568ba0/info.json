@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c83f0ee0-d9eb-4cd4-95f6-70dc9f7c8da5",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Liquity USD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "LUSD",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x33349B282065b0284d756F0577FB39c158F935e6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c50de819-a6e7-48a0-a47f-386d2e0d1210",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Maple Finance",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MPL",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5806e04c-5496-41d6-b7e6-bb5a16b6259d",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Chiliz",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "CHZ",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

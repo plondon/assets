@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8aa76b3f-9c8b-4a32-9a3a-b6fab68ae365",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Shiba Inu",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "SHIB",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xc221b7E65FfC80DE234bbB6667aBDd46593D34F0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c95e2233-5d0d-40f2-992c-203b8c99664f",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Centrifuge",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "wCFG",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

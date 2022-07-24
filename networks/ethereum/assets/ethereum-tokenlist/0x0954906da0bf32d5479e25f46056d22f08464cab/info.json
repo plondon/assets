@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "336c4ed1-2ece-4fc3-bf79-573ab3d5f5dd",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Index Cooperative",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "INDEX",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
